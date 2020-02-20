@@ -1,0 +1,69 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1479455798017">
+  <folder name="css">
+    <file name="site_global.css" crc="4120356288"/>
+    <file name="pricing.css" crc="457442757" ref="pricing"/>
+    <file name="index.css" crc="443038417" ref="index"/>
+    <file name="moving-tips.css" crc="3859681663" ref="moving-tips"/>
+    <file name="moving.css" crc="492635698" ref="moving"/>
+    <file name="services.css" crc="4186565732" ref="services"/>
+    <file name="about-us.css" crc="3958108065" ref="about-us"/>
+    <file name="junk-removal.css" crc="412322777" ref="junk-removal"/>
+    <file name="delivery.css" crc="3796780938" ref="delivery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="museutils.js" crc="183364071" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+  </folder>
+  <folder name="images">
+    <file name="edited truck po1.jpg" crc="24935343" seo="true" ref="index:about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="image04.jpg" crc="247280160" seo="true" ref="index"/>
+    <file name="2567027.jpg" crc="3777185286" ref="index" seo="true"/>
+    <file name="leftarrow.png" crc="401336015" ref="index"/>
+    <file name="rightarrow.png" crc="32761777" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="light-blue-textured-background2.jpg" crc="3925337749" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="4499101-1d7bac8b13813fcad5886fd1e811d74452e280d7-stocklarge.png" crc="473244238" seo="true" ref="services:index:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="house-painting-ideas-exterior1.jpg" crc="320860798" ref="index" seo="true"/>
+    <file name="delivery.jpg" crc="394710104" seo="true" ref="index"/>
+    <file name="download.jpg" crc="376492919" seo="true" ref="index"/>
+    <file name="junk-pile-2.jpg" crc="3822686497" seo="true" ref="index"/>
+    <file name="californiaroads-537x357.jpg" crc="271608671" seo="true" ref="index"/>
+    <file name="spaces-self-storage-02-larg.jpg" crc="52590255" ref="index" seo="true"/>
+    <file name="light-blue-textured-background22.jpg" crc="4108255935" ref="index:services:junk-removal:delivery:moving:about-us:pricing:moving-tips"/>
+    <file name="person - copy.png" crc="3847885362" seo="true" ref="index"/>
+    <file name="truck.png" crc="3927561168" seo="true" ref="index"/>
+    <file name="010c25e259a68015e7c880c398c25d56c83588d2e8.jpg" crc="273146014" ref="index"/>
+    <file name="dyjbanner4.jpg" crc="497715020" ref="junk-removal"/>
+    <file name="recycletree.jpg" crc="4080602325" seo="true" ref="junk-removal"/>
+    <file name="donation .png" crc="4098762026" seo="true" ref="junk-removal"/>
+    <file name="recycling-logo.png" crc="3916317722" seo="true" ref="junk-removal"/>
+    <file name="25670272.jpg" crc="4275193231" ref="delivery"/>
+    <file name="maps.jpg" crc="255990584" ref="delivery:moving"/>
+    <file name="movers.jpg" crc="318649770" ref="moving"/>
+    <file name="54-_top_professional_mover_strategies_for_corporate_relocation.jpg" crc="360854735" ref="pricing:moving-tips"/>
+    <file name="01b3a89fa7f90dc69d844ac983915e9530399043b7.jpg" crc="3862221088" ref="pricing"/>
+    <file name="num1estimate_icon_move.png" crc="483512791" ref="moving-tips"/>
+    <file name="need-help-packing.png" crc="93348593" ref="moving-tips"/>
+    <file name="we-get-to-work.png" crc="4069333594" ref="moving-tips"/>
+    <file name="home_truck_icon.png" crc="4188789588" ref="moving-tips"/>
+  </folder>
+  <file name="index.html" crc="3788550701" seo="true" mt="1456077932401" redirect="true"/>
+  <file name="services.html" crc="459367662" seo="true" mt="1455637116801" redirect="true"/>
+  <file name="junk-removal.html" crc="3866490218" seo="true" mt="1455646356444" redirect="true"/>
+  <file name="delivery.html" crc="4198740945" seo="true" mt="1455646653885" redirect="true"/>
+  <file name="moving.html" crc="297046871" seo="true" mt="1456075099408" redirect="true"/>
+  <file name="about-us.html" crc="3786612739" seo="true" mt="1456077787832" redirect="true"/>
+  <file name="pricing.html" crc="384981877" seo="true" mt="1455646577500" redirect="true"/>
+  <file name="moving-tips.html" crc="431445828" seo="true" mt="1455646407424" redirect="true"/>
+</manifest>
